@@ -1,4 +1,4 @@
-Project Name: Tic-Tac-Toe Inital Version
+Project Name: Tic-Tac-Toe Initial Version
 
 Class Name: Advanced Java Topics with Android Studio
 
